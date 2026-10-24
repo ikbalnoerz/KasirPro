@@ -1,0 +1,6 @@
+{
+  "name": "KasirPro",
+  "description": "Aplikasi POS kasir toko modern dan lengkap dengan manajemen stok cerdas, laporan penjualan real-time, dukungan pembayaran QRIS dinamis & tunai, serta pencarian distributor grosir terdekat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

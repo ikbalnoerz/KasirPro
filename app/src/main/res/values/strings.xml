@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">KasirPro</string>
+    <string name="tagline">POS Kasir &amp; Manajemen Toko</string>
+    
+    <!-- Navigation -->
+    <string name="nav_cashier">Kasir</string>
+    <string name="nav_inventory">Stok Barang</string>
+    <string name="nav_reports">Laporan</string>
+    <string name="nav_suppliers">Cari Grosir</string>
+    
+    <!-- Cashier Screen -->
+    <string name="search_product">Cari nama atau barcode produk...</string>
+    <string name="all_categories">Semua</string>
+    <string name="cart_title">Keranjang Belanja</string>
+    <string name="cart_empty">Keranjang masih kosong</string>
+    <string name="cart_empty_sub">Pilih produk di sebelah untuk menambahkan ke transaksi</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="tax">PPN (11%)</string>
+    <string name="total_amount">Total Bayar</string>
+    <string name="btn_checkout">Proses Pembayaran</string>
+    <string name="clear_cart">Kosongkan</string>
+    
+    <!-- Payment Dialog -->
+    <string name="payment_title">Metode Pembayaran</string>
+    <string name="pay_qris">QRIS Dinamis</string>
+    <string name="pay_cash">Tunai (Cash)</string>
+    <string name="pay_transfer">Transfer Bank</string>
+    <string name="cash_tendered">Uang Diterima</string>
+    <string name="change_due">Kembalian</string>
+    <string name="confirm_payment">Selesaikan Transaksi</string>
+    <string name="qris_scan_instruction">Arahkan kamera e-wallet / mobile banking pembeli ke QRIS di bawah ini</string>
+    <string name="payment_success">Pembayaran Berhasil!</string>
+    <string name="receipt_title">Struk Transaksi</string>
+    <string name="print_receipt">Cetak Struk</string>
+    <string name="new_transaction">Transaksi Baru</string>
+    
+    <!-- Inventory Screen -->
+    <string name="add_product">Tambah Produk</string>
+    <string name="edit_product">Ubah Produk</string>
+    <string name="product_name">Nama Produk</string>
+    <string name="product_barcode">Kode SKU / Barcode</string>
+    <string name="product_price">Harga Jual (Rp)</string>
+    <string name="product_cost">Harga Modal (Rp)</string>
+    <string name="product_stock">Jumlah Stok</string>
+    <string name="product_category">Kategori</string>
+    <string name="low_stock_threshold">Batas Stok Minimum</string>
+    <string name="stock_status_out">Habis</string>
+    <string name="stock_status_low">Menipis</string>
+    <string name="stock_status_safe">Aman</string>
+    
+    <!-- Reports Screen -->
+    <string name="today_sales">Penjualan Hari Ini</string>
+    <string name="total_transactions">Total Transaksi</string>
+    <string name="gross_profit">Estimasi Laba Kotor</string>
+    <string name="top_products">Produk Terlaris</string>
+    <string name="payment_breakdown">Metode Pembayaran</string>
+    <string name="sales_history">Riwayat Transaksi</string>
+    
+    <!-- Supplier Finder -->
+    <string name="supplier_finder_title">Cari Pemasok &amp; Grosir Terdekat</string>
+    <string name="supplier_search_hint">Contoh: Grosir sembako, Distributor kopi, Agen minuman...</string>
+    <string name="find_supplier_btn">Cari Grosir via Maps</string>
+</resources>
